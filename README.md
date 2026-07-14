@@ -9,6 +9,7 @@ A luxury limited-drop e-commerce storefront with cinematic 3D effects, built as 
 | **Name** | Maryam Yaseen |
 | **Registration number** | CX-2026-0530 |
 | **Build track** | Dark luxury — glassmorphism, neon accents, 3D particle background, cinematic animations |
+| **Live Link** | https://cloud-exify-project-2-orcin.vercel.app/ |
 
 ## Signature Features Implemented
 
